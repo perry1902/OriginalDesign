@@ -21,6 +21,7 @@ void moon()
   noStroke();
   fill(255,255,255);
   ellipse(550,50,75,75);
+  //life
 }
 void stars()
 {
