@@ -21,14 +21,14 @@ void moon()
   noStroke();
   fill(255,255,255);
   ellipse(550,50,75,75);
-  //life
+  
 }
 void stars()
 {
 
   noStroke();
     fill(350,250,50, x);
-    x=x+2;
+   // x=x+2;
     ellipse(50,50,20,20);
     ellipse(180,90,20,20);
     ellipse(320,180,20,20);
